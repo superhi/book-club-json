@@ -1,5 +1,13 @@
 {
   "books": [
+     {
+      "id": 1,
+      "author": "Bryan Stevenson",
+      "title": "Just Mercy",
+      "description": "Just Mercy is at once an unforgettable account of an idealistic, gifted young lawyer’s coming of age, a moving window into the lives of those he has defended, and an inspiring argument for compassion in the pursuit of true justice.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/91eRIvymqRL.jpg",
+      "published": 2014
+    },
     {
       "id": 2,
       "author": "N. K. Jemisin",
