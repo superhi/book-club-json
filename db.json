@@ -106,11 +106,27 @@
     },
     {
       "id": 14,
-      "author": "Nnedi Okorafor ",
+      "author": "Nnedi Okorafor",
       "title": "Who Fears Death",
       "description": "In a post-apocalyptic Africa, the world has changed in many ways; yet in one region genocide between tribes still bloodies the land. A woman who has survived the annihilation of her village and a terrible rape by an enemy general wanders into the desert, hoping to die. Instead, she gives birth to an angry baby girl with hair and skin the color of sand. Gripped by the certainty that her daughter is different—special—she names her Onyesonwu, which means \"Who fears death?\"  in an ancient language.",
       "image": "https://images-na.ssl-images-amazon.com/images/I/81SkRS2Mi3L.jpg",
       "published": 2010
+    },
+    {
+      "id": 15,
+      "author": "Ann Petry",
+      "title": "Who Fears Death",
+      "description": "The Street tells the poignant, often heartbreaking story of Lutie Johnson, a young black woman, and her spirited struggle to raise her son amid the violence, poverty, and racial dissonance of Harlem in the late 1940s. Originally published in 1946 and hailed by critics as a masterwork, The Street was Ann Petry's first novel, a beloved bestseller with more than a million copies in print. Its haunting tale still resonates today.",
+      "image": "https://www.hmhbooks.com/shop/books/assets/product/9780358187547_lres.gif",
+      "published": 1946
+    },
+    {
+      "id": 16,
+      "author": "Octavia Butler",
+      "title": "Kindred",
+      "description": "Dana, a modern black woman, is celebrating her twenty-sixth birthday with her new husband when she is snatched abruptly from her home in California and transported to the antebellum South. Rufus, the white son of a plantation owner, is drowning, and Dana has been summoned to save him. Dana is drawn back repeatedly through time to the slave quarters, and each time the stay grows longer, more arduous, and more dangerous until it is uncertain whether or not Dana's life will end, long before it has a chance to begin.",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81KU7ZGvnZL.jpg",
+      "published": 1979
     }
   ]
 }
